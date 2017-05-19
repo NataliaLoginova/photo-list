@@ -8,4 +8,4 @@
 `npm install`
  `webpack -w`
 
-3. In your default browser you will see a new tab: [http://localhost:3000/]
+3. In your default browser you will see a new tab: http://localhost:3000
